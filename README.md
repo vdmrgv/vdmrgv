@@ -4,6 +4,10 @@
 [![Twitter: vdmrgv][twitter-badge]][twitter-url]
 [![Linkedin: Vadim Rogov][linkedin-badge]][linkedin-url]
 
+I'm Vadim! I like code 👨‍💻, games 🕹️ and books 📚, thanks for reading!
+
+![Preview](https://media.giphy.com/media/4SY40ExbxfyOyD91VI/giphy.gif)
+
 <!--
 **vdmrgv/vdmrgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
