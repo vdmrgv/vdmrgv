@@ -6,7 +6,7 @@
 
 I'm Vadim! I like code 👨‍💻, games 🕹️ and books 📚, thanks for reading!
 
-![Preview](https://media.giphy.com/media/4SY40ExbxfyOyD91VI/giphy.gif)
+![Preview](https://media.giphy.com/media/nWbhxlHmzcPJI5OYHh/giphy.gif)
 
 <!--
 **vdmrgv/vdmrgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
