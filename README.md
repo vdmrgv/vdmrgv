@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+[![GitHub vdmrgv's stars][git-stars-badge]][git-url]
 [![GitHub vdmrgv][git-badge]][git-url]
 [![Twitter: vdmrgv][twitter-badge]][twitter-url]
-[![GitHub vdmrgv's stars][git-stars-badge]][git-url]
 [![Linkedin: Vadim Rogov][linkedin-badge]][linkedin-url]
 
 I'm Vadim! I like code 👨‍💻, games 🕹️ and books 📚, thanks for reading!
