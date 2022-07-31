@@ -2,6 +2,7 @@
 
 [![GitHub vdmrgv][git-badge]][git-url]
 [![Twitter: vdmrgv][twitter-badge]][twitter-url]
+[![GitHub vdmrgv's stars][git-stars-badge]][git-url]
 [![Linkedin: Vadim Rogov][linkedin-badge]][linkedin-url]
 
 I'm Vadim! I like code 👨‍💻, games 🕹️ and books 📚, thanks for reading!
@@ -26,6 +27,7 @@ Here are some ideas to get you started:
 
 [git-badge]: https://img.shields.io/github/followers/vdmrgv?label=follow&style=social
 [git-url]: https://github.com/vdmrgv
+[git-stars-badge]: https://img.shields.io/github/stars/vdmrgv?affiliations=OWNER%2CCOLLABORATOR&style=social
 [twitter-badge]: https://img.shields.io/twitter/follow/vdmrgv?style=social
 [twitter-url]: https://twitter.com/vdmrgv
 [linkedin-badge]: https://img.shields.io/badge/-Vadim%20Rogov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vadim-rogov-5809ba199/
