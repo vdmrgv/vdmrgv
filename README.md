@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 [![GitHub vdmrgv][git-badge]][git-url]
-[![Twitter: vdmrgv][twitter-badge]][twitter-url]
 [![GitHub vdmrgv's stars][git-stars-badge]][git-url]
 [![Linkedin: Vadim Rogov][linkedin-badge]][linkedin-url]
 
 I'm Vadim! I like code 👨‍💻, games 🕹️ and books 📚, thanks for reading!
 
 <!--
+
+[![Twitter: vdmrgv][twitter-badge]][twitter-url]
 
 ![Preview](https://media.giphy.com/media/nWbhxlHmzcPJI5OYHh/giphy.gif)
 
